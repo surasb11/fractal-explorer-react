@@ -1,0 +1,5 @@
+{
+  "name": "Fractals",
+  "description": "A high-performance WebGL fractal explorer supporting Mandelbrot and Julia sets with real-time zooming, panning, and customizable coloring.",
+  "requestFramePermissions": []
+}
